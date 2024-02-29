@@ -22,6 +22,7 @@ let userEmail;
 
 // Array
 const heroes = ["superman","shaktiman", "batman"]
+console.log(typeof heroes); //object
 
 //Objects
 let myObj = {

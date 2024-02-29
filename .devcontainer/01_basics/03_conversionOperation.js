@@ -1,7 +1,8 @@
-//let score ="33"
+let score ="33"
 // let score = "33abc" 
-let score = true
+// let score = true
 // let score = null
+console.log(typeof NaN); //Number
 console.log(typeof score);
 
 let valueInNumber = Number(score)
